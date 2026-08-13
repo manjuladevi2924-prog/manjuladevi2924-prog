@@ -10,7 +10,7 @@ I help translate business needs into clear requirements and actionable insights,
 - Tools: MySQL Workbench, Excel, Lucidchart
 
 ### 📊 Featured Projects
-- [HealthFirst Care Capstone](https://github.com/manjuladevi2924-prog/retail-sales-sql-database) — Full BA case study: BRD, RTM, risk register, stakeholder analysis
+- [HealthFirst Care Capstone](https://github.com/manjuladevi2924-prog/healthfirst-care-capstone  ) — Full BA case study: BRD, RTM, risk register, stakeholder analysis
 - [Retail Sales Database (MySQL)](https://github.com/manjuladevi2924-prog/retail-sales-sql-database) — 5-table relational database with analytical SQL queries
 - [Power BI Dashboards](https://github.com/manjuladevi2924-prog/Power-BI-dashboard-Maven-Market-Sales-AdventureWorks-Global-sales-performance) — Maven Market Sales & AdventureWorks Global Sales Performance
 
